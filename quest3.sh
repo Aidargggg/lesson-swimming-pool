@@ -6,4 +6,4 @@ mv *.conf door_configuration
 mv door_map_1.1 door_map
 mv *.log door_logs
 cd ..
-sh ai_door_management_module.sh
+./ai_door_management_module.sh
